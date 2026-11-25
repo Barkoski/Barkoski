@@ -95,7 +95,7 @@ Sou **advogado previdenciarista** e, nas horas vagas, **"metido a dev"**. Comece
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Barkoski/consultor-primeiro"><img src="https://raw.githubusercontent.com/Barkoski/consultor-primeiro/main/assets/capa-consultor.png" alt="Consultor primeiro"></a>
+      <a href="https://github.com/Barkoski/consultor-primeiro"><img src="assets/card-consultor.svg" alt="Consultor primeiro"></a>
       <h3>🧠 <a href="https://github.com/Barkoski/consultor-primeiro">Consultor primeiro</a></h3>
       Primeiro pensar, depois fazer, por fim conferir: <b>um consultor define a estratégia</b>, agentes executam e o principal revisa.
       <br><br>
@@ -116,7 +116,7 @@ Sou **advogado previdenciarista** e, nas horas vagas, **"metido a dev"**. Comece
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Barkoski/harumi-auto-os"><img src="https://raw.githubusercontent.com/Barkoski/harumi-auto-os/main/docs/amostras/saudacao.jpg" alt="Harumi Auto OS"></a>
+      <a href="https://github.com/Barkoski/harumi-auto-os"><img src="assets/card-harumi-auto-os.svg" alt="Harumi Auto OS"></a>
     </td>
     <td width="50%" valign="top">
       <h3>🌸 <a href="https://github.com/Barkoski/harumi-auto-os">Harumi Auto OS</a></h3>
