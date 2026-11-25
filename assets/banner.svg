@@ -13,10 +13,10 @@
       .t{font-family:'Segoe UI',Inter,Arial,sans-serif}
       .mono{font-family:Consolas,'Cascadia Code','Courier New',monospace}
       @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
-      @keyframes swing{0%,100%{transform:rotate(-4deg)}50%{transform:rotate(4deg)}}
+      @keyframes swing{0%,100%{transform:rotate(-3deg)}50%{transform:rotate(3deg)}}
       @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
       .cur{animation:blink 1.1s steps(1) infinite}
-      .beam{transform-origin:960px 150px;animation:swing 6s ease-in-out infinite}
+      .beam{animation:swing 7s ease-in-out infinite}
       .f1{animation:float 7s ease-in-out infinite}.f2{animation:float 9s ease-in-out infinite 1s}.f3{animation:float 8s ease-in-out infinite 2s}
     </style>
   </defs>
@@ -28,15 +28,22 @@
   <text x="1105" y="395" class="mono" font-size="120" fill="#ffffff" opacity=".05" text-anchor="end">&lt;/&gt;</text>
   <circle cx="960" cy="210" r="190" fill="url(#glow)"/>
   <!-- balança -->
-  <g fill="none" stroke="url(#gold)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M960 120v190M905 320h110M930 310h60"/>
-    <circle cx="960" cy="112" r="10" fill="#f3d58f" stroke="none"/>
-    <g class="beam">
-      <path d="M850 150h220"/>
-      <path d="M860 150l-35 75M860 150l35 75M1060 150l-35 75M1060 150l35 75" stroke-width="3"/>
-      <path d="M818 225q42 38 84 0z M1018 225q42 38 84 0z" fill="url(#gold)" stroke-width="3"/>
-    </g>
-  </g>
+  <g fill="none" stroke="#d9b26a" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" >
+    <path d="M875.0 367.0H1045.0"/>
+    <path d="M900.0 355.0L928.0 331.0H992.0L1020.0 355.0Z" fill="#d9b26a" fill-opacity=".14"/>
+    <path d="M960.0 331.0V107.0" stroke-width="6"/>
+    <circle cx="960.0" cy="93.0" r="12.0" fill="#d9b26a" fill-opacity=".25"/>
+    <g class="beam" style="transform-origin:960.0px 120.0px">
+      <path d="M835.0 120.0H1085.0" stroke-width="5"/>
+      
+    <path d="M840.0 120.0L792.0 223.0M840.0 120.0L888.0 223.0" stroke-width="2.2"/>
+    <circle cx="840.0" cy="120.0" r="5.0" fill="#d9b26a" stroke="none"/>
+    <path d="M782.0 223.0H898.0Q840.0 281.0 782.0 223.0Z" fill="#d9b26a" fill-opacity=".18"/>
+    <path d="M1080.0 120.0L1032.0 223.0M1080.0 120.0L1128.0 223.0" stroke-width="2.2"/>
+    <circle cx="1080.0" cy="120.0" r="5.0" fill="#d9b26a" stroke="none"/>
+    <path d="M1022.0 223.0H1138.0Q1080.0 281.0 1022.0 223.0Z" fill="#d9b26a" fill-opacity=".18"/>
+      <circle cx="960.0" cy="120.0" r="9.0" fill="#d9b26a" stroke="none"/>
+    </g></g>
   <g class="t">
     <rect x="60" y="56" width="236" height="34" rx="17" fill="#f3d58f" fill-opacity=".14" stroke="#f3d58f" stroke-opacity=".5"/>
     <text x="178" y="79" font-size="15" font-weight="600" letter-spacing="2" fill="#f3d58f" text-anchor="middle">DIREITO + CÓDIGO</text>
