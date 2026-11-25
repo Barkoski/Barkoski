@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Lucas Barkoski — advogado previdenciarista e metido a dev nas horas vagas" width="100%">
+  <img src="assets/banner.svg" alt="Lucas Barkoski: advogado previdenciarista e metido a dev nas horas vagas" width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 Sou **advogado previdenciarista** e, nas horas vagas, **"metido a dev"**. Comecei a programar para resolver problemas do meu próprio escritório e acabei publicando as ferramentas para quem também quiser usar.
 
 - ⚖️ **No dia a dia:** aposentadorias, BPC/LOAS, incapacidade, pensão por morte, revisões e recursos no INSS e no JEF.
-- 🧠 **No código:** skills e plugins de IA que leem o processo, montam a tabela de provas e apontam riscos — **sempre com a fonte de cada informação** à vista.
+- 🧠 **No código:** skills e plugins de IA que leem o processo, montam a tabela de provas e apontam riscos, **sempre com a fonte de cada informação** à vista.
 - 🔒 **Regra de ouro:** dado de cliente não entra aqui. As ferramentas ajudam; quem decide e assina é o advogado.
 - 🚗 **Por diversão:** estou transformando a central do meu **Subaru Impreza 1993** num computador com assistente de voz.
 
@@ -22,8 +22,8 @@ Sou **advogado previdenciarista** e, nas horas vagas, **"metido a dev"**. Comece
 | | |
 | --- | --- |
 | ⚖️ **Direito** | Advogado · **Pós-graduado em Direito Previdenciário** |
-| 💻 **Computação** | Cursei **Ciência da Computação** na **UNEMAT** — campus Rondonópolis (MT) |
-| 🤖 **Inteligência Artificial** | **Alura** — formações em andamento em **Python**, **PyTorch** e **Engenharia de IA** |
+| 💻 **Computação** | Cursei **Ciência da Computação** na **UNEMAT**, campus Rondonópolis (MT) |
+| 🤖 **Inteligência Artificial** | **Alura**, formações em andamento em **Python**, **PyTorch** e **Engenharia de IA** |
 
 ## 🌸 Sou o autor da [Harumi Life](https://www.harumilife.com)
 
@@ -120,7 +120,7 @@ Sou **advogado previdenciarista** e, nas horas vagas, **"metido a dev"**. Comece
     </td>
     <td width="50%" valign="top">
       <h3>🌸 <a href="https://github.com/Barkoski/harumi-auto-os">Harumi Auto OS</a></h3>
-      A central multimídia do meu <b>Subaru Impreza 1993</b>, com a assistente <b>Harumi</b>: mapas, música, painel do carro e conversa por voz — com a <b>IA rodando no próprio carro</b>, sem internet.
+      A central multimídia do meu <b>Subaru Impreza 1993</b>, com a assistente <b>Harumi</b>: mapas, música, painel do carro e conversa por voz, com a <b>IA rodando no próprio carro</b>, sem internet.
       <br><br>
       <img alt="Orange Pi 5" src="https://img.shields.io/badge/Orange_Pi_5-FF6600"> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> <img alt="Android" src="https://img.shields.io/badge/Android-34A853?logo=android&logoColor=white">
     </td>
