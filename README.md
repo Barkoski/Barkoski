@@ -17,6 +17,38 @@ Sou **advogado previdenciarista** e, nas horas vagas, **"metido a dev"**. Comece
 - 🔒 **Regra de ouro:** dado de cliente não entra aqui. As ferramentas ajudam; quem decide e assina é o advogado.
 - 🚗 **Por diversão:** estou transformando a central do meu **Subaru Impreza 1993** num computador com assistente de voz.
 
+## 🎓 Formação
+
+| | |
+| --- | --- |
+| ⚖️ **Direito** | Advogado · **Pós-graduado em Direito Previdenciário** |
+| 💻 **Computação** | Cursei **Ciência da Computação** na **UNEMAT** — campus Rondonópolis (MT) |
+| 🤖 **Inteligência Artificial** | **Alura** — formações em andamento em **Python**, **PyTorch** e **Engenharia de IA** |
+
+## 🌸 Sou o autor da [Harumi Life](https://www.harumilife.com)
+
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <a href="https://www.harumilife.com"><img src="assets/harumi-life-mundo.png" alt="Mapa do mundo da Harumi Life"></a>
+    </td>
+    <td width="55%" valign="top">
+      <img src="assets/harumi.png" alt="Harumi" width="64" align="right">
+      <b><a href="https://www.harumilife.com">www.harumilife.com</a></b> é a casa da <b>Harumi</b>, uma personagem de IA que <b>vive 24 horas por dia</b> num mundo em pixel art: ela lê, programa, cuida das plantas, dorme, sonha e escreve um diário.
+      <br><br>
+      Quem visita o site acompanha a casa <b>ao vivo</b>, conversa com ela e pode mandar presentes.
+      <br><br>
+      🧪 É o meu <b>laboratório de estudo de micro modelos de IA</b>: tudo roda num <b>Orange Pi</b> aqui em casa, com modelos pequenos e locais.
+      <br><br>
+      🔒 O código é <b>privado</b>; o site é aberto para todo mundo.
+      <br><br>
+      <a href="https://www.harumilife.com"><img alt="Visitar a Harumi" src="https://img.shields.io/badge/🌸_Visitar_a_Harumi-harumilife.com-d4789b?style=for-the-badge"></a>
+      <br><br>
+      <img alt="Orange Pi" src="https://img.shields.io/badge/Orange_Pi-FF6600"> <img alt="Micro modelos de IA" src="https://img.shields.io/badge/Micro_modelos-IA_local-8a6fb0"> <img alt="Pixel art" src="https://img.shields.io/badge/Pixel_art-PixelLab-d4789b">
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="assets/fluxo.svg" alt="Como eu trabalho: documento, prova, estratégia, ferramenta e revisão humana" width="100%">
 </p>
