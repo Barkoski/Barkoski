@@ -38,13 +38,13 @@ Sou **advogado previdenciarista** e, nas horas vagas, **"metido a dev"**. Comece
       <br><br>
       Quem visita o site acompanha a casa <b>ao vivo</b>, conversa com ela e pode mandar presentes.
       <br><br>
-      🧪 É o meu <b>laboratório de estudo de micro modelos de IA</b>: tudo roda num <b>Orange Pi</b> aqui em casa, com modelos pequenos e locais.
+      🧪 É o meu <b>laboratório de estudo de micro modelos de IA</b>: tudo roda num <b>Orange Pi</b> aqui em casa, em contêineres <b>Docker</b>, com modelos pequenos e locais.
       <br><br>
       🔒 O código é <b>privado</b>; o site é aberto para todo mundo.
       <br><br>
       <a href="https://www.harumilife.com"><img alt="Visitar a Harumi" src="https://img.shields.io/badge/🌸_Visitar_a_Harumi-harumilife.com-d4789b?style=for-the-badge"></a>
       <br><br>
-      <img alt="Orange Pi" src="https://img.shields.io/badge/Orange_Pi-FF6600"> <img alt="Micro modelos de IA" src="https://img.shields.io/badge/Micro_modelos-IA_local-8a6fb0"> <img alt="Pixel art" src="https://img.shields.io/badge/Pixel_art-PixelLab-d4789b">
+      <img alt="Orange Pi" src="https://img.shields.io/badge/Orange_Pi-FF6600"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> <img alt="Micro modelos de IA" src="https://img.shields.io/badge/Micro_modelos-IA_local-8a6fb0"> <img alt="Pixel art" src="https://img.shields.io/badge/Pixel_art-PixelLab-d4789b">
     </td>
   </tr>
 </table>
@@ -140,6 +140,7 @@ Sou **advogado previdenciarista** e, nas horas vagas, **"metido a dev"**. Comece
   <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 ---
